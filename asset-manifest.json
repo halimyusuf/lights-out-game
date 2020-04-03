@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9388e8fe.chunk.css",
-    "main.js": "/static/js/main.c770df11.chunk.js",
-    "main.js.map": "/static/js/main.c770df11.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f939fc70.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f939fc70.js.map",
-    "static/js/2.fd505ea7.chunk.js": "/static/js/2.fd505ea7.chunk.js",
-    "static/js/2.fd505ea7.chunk.js.map": "/static/js/2.fd505ea7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.876ca7130b58e470b5379e2572b6b981.js": "/precache-manifest.876ca7130b58e470b5379e2572b6b981.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9388e8fe.chunk.css.map": "/static/css/main.9388e8fe.chunk.css.map",
-    "static/js/2.fd505ea7.chunk.js.LICENSE.txt": "/static/js/2.fd505ea7.chunk.js.LICENSE.txt"
+    "main.css": "/lights-out-game/static/css/main.9388e8fe.chunk.css",
+    "main.js": "/lights-out-game/static/js/main.23a03009.chunk.js",
+    "main.js.map": "/lights-out-game/static/js/main.23a03009.chunk.js.map",
+    "runtime-main.js": "/lights-out-game/static/js/runtime-main.e343bdd2.js",
+    "runtime-main.js.map": "/lights-out-game/static/js/runtime-main.e343bdd2.js.map",
+    "static/js/2.fd505ea7.chunk.js": "/lights-out-game/static/js/2.fd505ea7.chunk.js",
+    "static/js/2.fd505ea7.chunk.js.map": "/lights-out-game/static/js/2.fd505ea7.chunk.js.map",
+    "index.html": "/lights-out-game/index.html",
+    "precache-manifest.3a34891a69904c90e74c676695272f14.js": "/lights-out-game/precache-manifest.3a34891a69904c90e74c676695272f14.js",
+    "service-worker.js": "/lights-out-game/service-worker.js",
+    "static/css/main.9388e8fe.chunk.css.map": "/lights-out-game/static/css/main.9388e8fe.chunk.css.map",
+    "static/js/2.fd505ea7.chunk.js.LICENSE.txt": "/lights-out-game/static/js/2.fd505ea7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f939fc70.js",
+    "static/js/runtime-main.e343bdd2.js",
     "static/js/2.fd505ea7.chunk.js",
     "static/css/main.9388e8fe.chunk.css",
-    "static/js/main.c770df11.chunk.js"
+    "static/js/main.23a03009.chunk.js"
   ]
 }
